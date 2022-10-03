@@ -1,0 +1,16 @@
+body{
+  margin:0;
+  background-color: aquamarine;
+}
+.container{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: aliceblue;
+  border: 2px solid red;
+  text-transform: uppercase;
+}
+article > h4 {
+  border: 1px dotted white;
+}
